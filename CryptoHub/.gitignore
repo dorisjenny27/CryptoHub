@@ -1,0 +1,3 @@
+# Ignore appsettings files
+CryptoHub/appsettings.json
+CryptoHub/appsettings.*.json
