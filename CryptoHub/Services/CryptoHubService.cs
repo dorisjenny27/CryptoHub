@@ -1,4 +1,5 @@
-﻿using CryptoHub.Models.DTOs;
+﻿using CryptoHub.Helpers;
+using CryptoHub.Models.DTOs;
 using CryptoHub.Services.Interfaces;
 using System.Net.Http.Json;
 
@@ -15,16 +16,21 @@ namespace CryptoHub.Services
             _apikey = config["CurrencyApiSettings:ApiKey"];
         }
 
-        public async Task<IEnumerable<Crypto>> GetAllCryptos()
+        public async Task<IEnumerable<Crypto>> GetAllCryptos(int page, int perPage)
         {
+            // Fetch all cryptos from the CoinCap API
             var response = await _httpClient.GetFromJsonAsync<ApiResponse>("https://api.coincap.io/v2/assets");
-            return response.Data;
+            // Paginate the fetched data
+            var paginatedData = UtilityMethods.Paginate(response.Data.ToList(), page, perPage);
+            return paginatedData; // Return the paginated data
         }
 
         public async Task<Crypto> GetCryptoById(string id)
         {
+            // Fetch a single crypto by ID from the CoinCap API
             var response = await _httpClient.GetFromJsonAsync<SingleCryptoResponse>($"https://api.coincap.io/v2/assets/{id}");
-            return response.Data;
+            return response.Data; // Return the fetched crypto
         }
+
     }
 }

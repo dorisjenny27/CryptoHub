@@ -4,7 +4,7 @@ namespace CryptoHub.Services.Interfaces
 {
     public interface ICryptoHubService
     {
-        Task<IEnumerable<Crypto>> GetAllCryptos();
+        Task<IEnumerable<Crypto>> GetAllCryptos(int page, int perPage);
         Task<Crypto> GetCryptoById(string id);
     }
 }

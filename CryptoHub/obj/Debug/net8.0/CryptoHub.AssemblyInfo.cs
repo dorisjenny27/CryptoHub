@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CryptoHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a2b027e02c1c3feb2b0ceef7044d62b7c50d6d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa3c8c251bfc8c096ca1708c2f8e25137621195")]
 [assembly: System.Reflection.AssemblyProductAttribute("CryptoHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CryptoHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
