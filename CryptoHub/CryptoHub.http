@@ -1,0 +1,6 @@
+@CryptoHub_HostAddress = http://localhost:5090
+
+GET {{CryptoHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

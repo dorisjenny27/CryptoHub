@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\services\\cryptohubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\services\\cryptohubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\models\\dtos\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\models\\dtos\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\controllers\\cryptohubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\controllers\\cryptohubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\services\\interfaces\\icryptohubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\services\\interfaces\\icryptohubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|c:\\users\\hp\\onedrive\\desktop\\interview task\\cryptohub\\cryptohub\\cryptohub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56FF52CD-78CB-40DB-858C-3DCC7E5A3F71}|CryptoHub\\CryptoHub.csproj|solutionrelative:cryptohub\\cryptohub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Models\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "CryptoHub\\Models\\DTOs\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:05:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoHubController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Controllers\\CryptoHubController.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Controllers\\CryptoHubController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Controllers\\CryptoHubController.cs",
+              "RelativeToolTip": "CryptoHub\\Controllers\\CryptoHubController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:51:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICryptoHubService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Services\\Interfaces\\ICryptoHubService.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Services\\Interfaces\\ICryptoHubService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Services\\Interfaces\\ICryptoHubService.cs",
+              "RelativeToolTip": "CryptoHub\\Services\\Interfaces\\ICryptoHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:47:27.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\appsettings.json",
+              "RelativeDocumentMoniker": "CryptoHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\appsettings.json",
+              "RelativeToolTip": "CryptoHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T15:46:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Program.cs",
+              "RelativeToolTip": "CryptoHub\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:20:45.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoHubService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Services\\CryptoHubService.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Services\\CryptoHubService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Services\\CryptoHubService.cs",
+              "RelativeToolTip": "CryptoHub\\Services\\CryptoHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:10:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Models\\DTOs\\Crypto.cs",
+              "RelativeDocumentMoniker": "CryptoHub\\Models\\DTOs\\Crypto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\Models\\DTOs\\Crypto.cs",
+              "RelativeToolTip": "CryptoHub\\Models\\DTOs\\Crypto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:44:03.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CryptoHub",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\CryptoHub.csproj",
+              "RelativeDocumentMoniker": "CryptoHub\\CryptoHub.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\INTERVIEW TASK\\CryptoHub\\CryptoHub\\CryptoHub.csproj",
+              "RelativeToolTip": "CryptoHub\\CryptoHub.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T13:16:58.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
